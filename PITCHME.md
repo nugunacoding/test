@@ -4,11 +4,11 @@
 ## @color[black](Git Pitch<br>Sample)
 
 @snap[south docslink span-50]
-Way to Make Slides easy with Markdown Docs
+Way to Make Slides Easy With Markdown Docs
 @snapend
 
 
-+++?image=template/img/bg/blue.jpg&position=left&size=30% 100%
+---?image=template/img/bg/blue.jpg&position=left&size=30% 100%
 @title[Sidebar + Heading]
 
 @snap[west text-white]

@@ -24,7 +24,7 @@ Sidebar with heading body template.
 @snapend
 
 
-+++?image=template/img/bg/orange.jpg&position=left&size=30% 100%
+---?image=template/img/bg/orange.jpg&position=left&size=30% 100%
 @title[Sidebar + Image Body]
 
 @snap[west text-white]
@@ -58,7 +58,7 @@ Sidebar with mixed body template.
 @snapend
 
 
-+++?image=template/img/bg/pink.jpg&position=left&size=30% 100%
+---?image=template/img/bg/pink.jpg&position=left&size=30% 100%
 @title[Sidebar + Text Body]
 
 @snap[west text-white]

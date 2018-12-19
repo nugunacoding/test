@@ -1,12 +1,10 @@
 ---?image=template/img/pencils.jpg
 @title[Sidebar Templates]
 
-## @color[black](Sidebar<br>Slide Templates)
-
-@fa[arrow-down text-black]
+## @color[black](Git Pitch<br>Sample)
 
 @snap[south docslink span-50]
-[The Template Docs](https://gitpitch.com/docs/the-template)
+Way to Make Slides easy with Markdown Docs
 @snapend
 
 

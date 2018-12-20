@@ -1,6 +1,8 @@
 ---?image=template/img/pencils.jpg
 @title[Split-Screen Templates]
 
+**filename has been changed.**
+
 ## @color[black](Split-Screen<br> Slide Templates)
 
 @fa[arrow-down text-black]

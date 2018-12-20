@@ -1,76 +1,66 @@
----?image=template/img/pencils.jpg
-@title[Sidebar Templates]
+---?color=linear-gradient(to right, #c02425, #f0cb35)
+@title[Introduction]
 
-## @color[black](Git Pitch<br>Sample)
-
-@snap[south docslink span-50]
-Way to Make Slides Easy With Markdown Docs
+@snap[west text-25 text-bold text-white]
+GitPitch<br>*The Template*
 @snapend
 
-
----?image=template/img/bg/blue.jpg&position=left&size=30% 100%
-@title[Sidebar + Heading]
-
-@snap[west text-white]
-@size[3em](1.)
+@snap[south-west byline text-white text-06]
+The Fastest Way From Idea To Presentation.
 @snapend
 
-@snap[east span-70]
-<h2>Lorem ipsum @css[text-blue](dolor)</h2>
-@snapend
+---
+@title[Slide Markdown]
 
-@snap[north-east template-note text-gray]
-Sidebar with heading body template.
-@snapend
+### Each slide in this presentation is provided as a *template*.
 
-
----?image=template/img/bg/orange.jpg&position=left&size=30% 100%
-@title[Sidebar + Image Body]
-
-@snap[west text-white]
-@size[3em](2.)
-@snapend
-
-@snap[east span-70]
-![SNOWMAN](template/img/snowman.gif)
-@snapend
-
-@snap[north-east template-note text-gray]
-Sidebar with image body template.
-@snapend
-
-
-+++?image=template/img/bg/green.jpg&position=left&size=30% 100%
-@title[Sidebar + Mixed Body]
-
-@snap[west text-white]
-@size[3em](3.)
-@snapend
-
-@snap[east span-70]
-@fa[rocket fa-5x text-orange]
 <br><br>
-We Have Lift Off
+
+@snap[south span-100 text-purple text-05]
+Reuse the *markdown snippet* for any slide in this template within your own @css[text-gold text-bold](PITCHME.md) files.
 @snapend
 
-@snap[north-east template-note text-gray]
-Sidebar with mixed body template.
+---
+@title[Tip! Fullscreen]
+
+![TIP](template/img/tip.png)
+<br>
+For the best viewing experience, press F for fullscreen.
+@css[template-note](We recommend using the *SPACE* key to navigate between slides.)
+
+---?include=template/md/split-screen/PITCHME2.md
+
+---?include=template/md/sidebar/PITCHME.md
+
+---?include=template/md/list-content/PITCHME.md
+
+---?include=template/md/boxed-text/PITCHME.md
+
+---?include=template/md/image/PITCHME.md
+
+---?include=template/md/sidebox/PITCHME.md
+
+---?include=template/md/code-presenting/PITCHME.md
+
+---?include=template/md/header-footer/PITCHME.md
+
+---?include=template/md/quotation/PITCHME.md
+
+---?include=template/md/announcement/PITCHME.md
+
+---?include=template/md/about/PITCHME.md
+
+---?include=template/md/wrap-up/PITCHME.md
+
+---?image=template/img/presenter.jpg
+@title[The Template Docs]
+
+@snap[north-west sign-off]
+### **Now it's @color[#e58537](your) turn.**
+<br>
+#### Quickstart your next slide deck<br>with @size[1.4em](The GitPitch Template).
 @snapend
 
-
----?image=template/img/bg/pink.jpg&position=left&size=30% 100%
-@title[Sidebar + Text Body]
-
-@snap[west text-white]
-@size[3em](4.)
-@snapend
-
-@snap[east span-70]
-Duis aute irure dolor in reprehenderit in voluptate velit @size[1.25em](esse cillum) dolore eu fugiat nulla pariatur.
-<br><br>
-Excepteur sint occaecat cupidatat non proident, @css[text-pink](sunt in culpa) qui officia deserunt mollit anim id est laborum.
-@snapend
-
-@snap[north-east template-note text-gray]
-Sidebar with text body template.
+@snap[south docslink text-gold span-100]
+For supporting documentation see the [The Template Docs](https://gitpitch.com/docs/the-template)
 @snapend
